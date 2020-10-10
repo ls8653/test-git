@@ -10,3 +10,9 @@
 if(장정식.in.home){
   뻥이요
 }
+
+#include "김시재"
+
+if ( 김시재.in.starbuck ) {
+  슬퍼여
+}
